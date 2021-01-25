@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Sunt-ing
+I'm Ting SUN
 
 + senior of [SUSTech](https://www.sustech.edu.cn/) (Southern University of Science and Technology)
 
