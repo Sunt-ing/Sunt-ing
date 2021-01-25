@@ -2,7 +2,7 @@
 
 I'm Sunt-ing
 
-+ senior of [SUSTech](https://www.sustech.edu.cn/)
++ senior of [SUSTech](https://www.sustech.edu.cn/)(Southern University of Science and Technology)
 
 Languages and Tools:
 
