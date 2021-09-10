@@ -2,7 +2,8 @@
 
 I'm Ting SUN
 
-+ senior of [SUSTech](https://www.sustech.edu.cn/) (Southern University of Science and Technology)
++ Senior of [SUSTech](https://www.sustech.edu.cn/) (Southern University of Science and Technology)
++ You may find me on [https://sunt-ing.github.io/](https://sunt-ing.github.io/) 
 
 Languages and Tools:
 
