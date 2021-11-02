@@ -2,7 +2,7 @@
 
 I'm Ting SUN
 
-+ Alumnus of [SUSTech](https://www.sustech.edu.cn/) (Southern University of Science and Technology)
++ Alumnus of [SUSTech](https://www.sustech.edu.cn/en/) (Southern University of Science and Technology)
 + You may find me on [https://sunt-ing.github.io/](https://sunt-ing.github.io/) 
 
 Languages and Tools:
