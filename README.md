@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Ting SUN
-- :sweat_smile: About me: [homepage](https://sunt-ing.github.io/)
+# :sweat_smile: Hi, I'm Ting SUN 
+- :cry: About me: [homepage](https://sunt-ing.github.io/)
 
 - :sob: Languages: 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
