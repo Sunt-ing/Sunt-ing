@@ -9,7 +9,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunt-ing&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 --> 
 
+
+<!-- 
 [![Sunt-ing's github stats](https://github-readme-stats.vercel.app/api?username=Sunt-ing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+--> 
 
 <!--
 Here are some ideas to get you started:
